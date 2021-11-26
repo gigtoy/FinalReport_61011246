@@ -1,0 +1,36 @@
+﻿Category,Value
+Total Cases,134687
+Total Deaths,205
+Total Cases with Known Age,134687
+Total Cases with Unknown Age,0
+Percent Cases with Known Age,100
+under 15,338
+15 to 19,6702
+20 to 24,26958
+25 to 29,39875
+30 to 34,36121
+35 to 39,18253
+40 to 44,4784
+45 to 49,960
+50 to 54,696
+Total Cases with Known Race/Ethnicity,117521
+Percent Cases with Known Race/Ethnicity,87.3
+Hispanic or Latino,43786
+Asian Non-Hispanic,3491
+Black Non-Hispanic,16088
+White Non-Hispanic,46672
+Multiple Non-Hispanic,7484
+Total Hospitalized Cases,23062
+Total Cases Known Hospitalization Status,106276
+Percent with Known Hospitalization Status,78.9
+Total Cases with Known ICU Status,16501
+Percent with Known ICU Status,12.3
+Total Cases with Known Ventilation Status,12063
+Percent with Known Ventilation Status,9
+Total Cases with Known ECMO Status,12495
+Percent with Known ECMO Status,9.3
+Total ICU Cases,583
+Total Ventilation Cases,129
+Total ECMO Cases ,27
+Percent Cases with Known Diagnosis Date,100
+Total Cases with Known Diagnosis Date,134687
